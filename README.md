@@ -1,4 +1,4 @@
-# Frontend Mentor - 3 Column Preview Card Componenet
+# Frontend Mentor - 3 Column Preview Card Component
 
 ### Screenshot
 
@@ -6,7 +6,7 @@
 
 ### Links
 
-- Live Site URL: [https://3-column-preview-card-component-10.netlify.app/]
+- Live Site URL: [https://3-column-preview-card-component-10.vercel.app/]
 
 ### Built with
 

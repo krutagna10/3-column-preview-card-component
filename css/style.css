@@ -81,7 +81,7 @@ body {
 }
 
 .container {
-  max-width: 56rem;
+  max-width: 58.25rem;
   padding-inline: 1rem;
   display: grid;
   grid-template-columns: 1fr;
